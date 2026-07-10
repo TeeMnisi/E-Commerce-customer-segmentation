@@ -22,3 +22,6 @@ This data science project applies **RFM (Recency, Frequency, Monetary) analysis*
 ## 🛠️ Tech Stack & Packages
 * **Language:** R
 * **Core Packages:** `tidyverse` (dplyr, ggplot2, purrr, readr), `lubridate`
+
+## Future Improvements
+The project may have a few errors such as mismatched entries or declaration issues. I will use the errors made this time to improve on future projects.
